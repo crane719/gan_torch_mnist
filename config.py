@@ -1,5 +1,5 @@
 # hyper parameter
-epochs = 50
+epochs = 200
 mini_batch_num = 100
 noise_dim = 64
 valid_rate = 0.2
